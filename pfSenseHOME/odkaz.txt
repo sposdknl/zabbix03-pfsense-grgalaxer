@@ -1,0 +1,1 @@
+https://cdn.zabbix.com/zabbix/appliances/stable/7.0/7.0.23/zabbix_appliance-7.0.23-ovf.tar.gz
