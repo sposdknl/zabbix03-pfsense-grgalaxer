@@ -8,6 +8,9 @@ udělal jsem portforvarding
 ale pfSense pořad děla nejake blbosti, nechce se otevirat Web GUI i když je nastaven spravně, přestal se spouštět prez vagrant up atd.
 
 
+Po 20-30 minut oprav - pfsense web gui stale nefunguje.
+
+
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LrdrCyq_)
 # Zabbix Appliance monitoring pfSense-box by SNMP
