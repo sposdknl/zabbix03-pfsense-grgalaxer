@@ -1,5 +1,5 @@
 Takze, měl jsem docela hodně problemu během instalace pfSence a Zabbix Appliance. Konečně jsem je nastavil na NAT + intnet tak, aby se mohli pingovat navzajem(192.168.1.1, 192.168.1.10), udelal jsem portforwarding
-
+[PING](./Images/ping.jpg) [ips](./Images/ips.jpg)
 
 
 
