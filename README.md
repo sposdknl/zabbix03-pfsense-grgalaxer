@@ -5,6 +5,8 @@ Takze, měl jsem docela hodně problemu během instalace pfSence a Zabbix Applia
 udělal jsem portforvarding 
 ![porf](./Images/portforw.jpg)
 
+ale pfSense pořad děla nejake blbosti, nechce se otevirat Web GUI i když je nastaven spravně, přestal se spouštět prez vagrant up atd.
+
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LrdrCyq_)
