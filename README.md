@@ -37,4 +37,14 @@ Nějake obrazky
 ![pfsense.png](./Images/newsense.png)
 ![pfsense.png](./Images/startofsettings.png)
 
+Tady jsem změnil nastaveni IP a WEB configuratoru
+![pfsense.png](./Images/sofpf.png)
+
+GUI PfSense
+![pfsense.png](./Images/webguipfsense.png)
+![pfsense.png](./Images/23.png
+)
+
+
+
 
