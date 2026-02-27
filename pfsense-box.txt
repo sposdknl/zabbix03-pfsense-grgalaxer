@@ -1,0 +1,1 @@
+SNMPv2-MIB::sysContact.0 = STRING: kucheriavyi.yaroslav@student.sposdk.cz
