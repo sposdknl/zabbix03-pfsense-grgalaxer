@@ -55,3 +55,14 @@ Konkretni info
 
 
 
+Uspěšne pripojeni hosta v Zabbix GUI
+![pfsense.png](./Images/successpfsense.png)
+
+
+::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+Naklonovat template se mi nepovedlo. Nevim jak vyresit tuto chybu, zkoušel jsem ruzne věci, ale nic.
+![pfsense.png](./Images/err.png)
+
