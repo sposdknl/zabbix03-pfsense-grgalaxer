@@ -25,3 +25,11 @@ Potom jsem vytvoril hosta na WEB Zabbix
 nastavil jsem ho, a tady jsou Latest Data
 ![hostpf.png](./Images/hostpf.png)
 
+
+
+
+
+
+Pokus 3: new pfSense by NetGate https://www.pfsense.org/download/
+
+![pfsense.png](./Images/newsense.png)
