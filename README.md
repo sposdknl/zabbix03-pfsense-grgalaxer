@@ -90,7 +90,3 @@ Server=192.168.56.100
 ServerActive=192.168.56.100
 Hostname=Kali Kucher
 
-![pfsense.png](./Images/)
-![pfsense.png](./Images/)
-![pfsense.png](./Images/)
-![pfsense.png](./Images/)
