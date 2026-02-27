@@ -9,3 +9,13 @@ ale pfSense pořad děla nejake blbosti, nechce se otevirat Web GUI i když je n
 
 
 Po 20-30 minut oprav - pfsense web gui stale nefunguje.
+/*Na 3kolnim po4ita4i funguje, i kdyz postup byl UPLNĚ stejny.
+
+Nastavil jsem pravidlo SNMP na pfSense WEB GUI
+![snmppf](./Images/snmppf.png)
+
+zkusil jsem prikazy 
+
+sudo dnf install net-snmp-utils -y
+snmpwalk -v2c -c public 192.168.1.1 system
+![snmp](./Images/snmp.png)
