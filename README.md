@@ -70,3 +70,27 @@ Naklonovat template se mi nepovedlo. Nevim jak vyresit tuto chybu, zkoušel jsem
 Tagret = pf
 ![pfsense.png](./Images/trgpf.png)
 
+
+
+
+___________________________________________
+
+
+
+
+Kali+Zabbix
+instalace zabbixu a dalšich veci
+
+wget https://repo.zabbix.com/zabbix/7.0/debian/pool/main/z/zabbix-release/zabbix-release_7.0-2+debian13_all.deb
+sudo apt install -y zabbix-agent2
+![pfsense.png](./Images/kalizab.png)
+
+sudo nano /etc/zabbix/zabbix_agent2.conf
+Server=192.168.56.100
+ServerActive=192.168.56.100
+Hostname=Kali Kucher
+
+![pfsense.png](./Images/)
+![pfsense.png](./Images/)
+![pfsense.png](./Images/)
+![pfsense.png](./Images/)
