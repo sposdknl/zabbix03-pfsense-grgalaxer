@@ -42,9 +42,12 @@ Tady jsem změnil nastaveni IP a WEB configuratoru
 
 GUI PfSense
 ![pfsense.png](./Images/webguipfsense.png)
-![pfsense.png](./Images/23.png
-)
+![pfsense.png](./Images/23.png)
 
+SNMP
+  sudo dnf install net-snmp-utils -y
+  snmpwalk -v2c -c public 192.168.56.2 system
+![pfsense.png](./Images/snmpsys.png)
 
 
 
