@@ -31,5 +31,10 @@ nastavil jsem ho, a tady jsou Latest Data
 
 
 Pokus 3: new pfSense by NetGate https://www.pfsense.org/download/
+Dělal jsem to podle tohoto navodu: https://simplificandoredes.com/en/install-pfsense-on-virtualbox/
 
+Nějake obrazky
 ![pfsense.png](./Images/newsense.png)
+![pfsense.png](./Images/startofsettings.png)
+
+
