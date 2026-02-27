@@ -66,3 +66,7 @@ Uspěšne pripojeni hosta v Zabbix GUI
 Naklonovat template se mi nepovedlo. Nevim jak vyresit tuto chybu, zkoušel jsem ruzne věci, ale nic.
 ![pfsense.png](./Images/err.png)
 
+
+Tagret = pf
+![pfsense.png](./Images/trgpf.png)
+
