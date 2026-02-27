@@ -19,3 +19,9 @@ zkusil jsem prikazy
 sudo dnf install net-snmp-utils -y
 snmpwalk -v2c -c public 192.168.1.1 system
 ![snmp](./Images/snmp.png)
+
+
+Potom jsem vytvoril hosta na WEB Zabbix
+nastavil jsem ho, a tady jsou Latest Data
+![hostpf.png](./Images/hostpf.png)
+
